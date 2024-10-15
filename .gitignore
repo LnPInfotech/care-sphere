@@ -397,3 +397,5 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+temp_auto_push.bat
+temp_interactive_push.bat
